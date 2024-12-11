@@ -12,6 +12,18 @@
 ![image](https://github.com/user-attachments/assets/dc05d316-d769-4d83-992e-90afe4ef6ed0)
 ## 2- Création de Dockerfile : https://hub.docker.com/
 ![image](https://github.com/user-attachments/assets/0208fade-e952-423c-82fb-702ed150e766)
+![image](https://github.com/user-attachments/assets/0c3e4e79-860b-4531-ba31-be8db6fb6dcc)
+![image](https://github.com/user-attachments/assets/24590c2f-11de-467e-b0d1-e14dac38e98b)
+![image](https://github.com/user-attachments/assets/05ae2309-d712-47bf-8024-5d481446029f)
+![image](https://github.com/user-attachments/assets/aa97a3cc-9c85-4b24-a47e-c3f27c3a3b1d)
+![image](https://github.com/user-attachments/assets/02dc8c53-ce5e-4ead-ab9d-63a549bc2187)
+![image](https://github.com/user-attachments/assets/c99f455c-f70d-4341-bd79-561b9872432f)
+
+
+
+
+
+
 
 
 
